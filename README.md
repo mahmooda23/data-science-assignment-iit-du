@@ -2,7 +2,9 @@
 **An academic project under the Institute of Information Technology, University of Dhaka**
 
 ## Problem Statement
+<p align="justify">
 The objective of this project is to clean, preprocess, and analyze a global salary survey dataset. The goal is to evaluate compensation trends across different demographic groups by standardizing various currencies to a single metric (Bangladeshi Taka - BDT) and analyzing the average total compensation across structured age categories.
+</p>
 
 ## Key Tasks & Objectives
 1. **Data Ingestion:** Load the raw survey dataset (`salary.csv`).
