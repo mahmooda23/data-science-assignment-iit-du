@@ -1,4 +1,4 @@
-# Data Science Assignment | Salary Data Analysis
+# Salary Data Analysis | Data Science Assignment
 **An academic project under the Institute of Information Technology, University of Dhaka**
 
 ## Problem Statement
